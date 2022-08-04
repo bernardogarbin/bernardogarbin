@@ -19,7 +19,7 @@
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 
           
-  <img align="right" alt="Rafa-pic" height="115" style="border-radius:50px;" src="https://static.wikia.nocookie.net/darkstalkers/images/8/8c/Hsien-ko-leilei.gif/revision/latest/scale-to-width-down/119?cb=20110829040032">
+  <img align="right" alt="Rafa-pic" height="230" style="border-radius:50px;" src="https://professorlotus.com/Sprites/Crobat.gifv">
 </div>
   
   ##
