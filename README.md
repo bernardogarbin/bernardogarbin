@@ -14,7 +14,7 @@
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://static.wikia.nocookie.net/darkstalkers/images/8/8c/Hsien-ko-leilei.gif/revision/latest/scale-to-width-down/119?cb=20110829040032">
+  <img align="right" alt="Rafa-pic" height="115" style="border-radius:50px;" src="https://static.wikia.nocookie.net/darkstalkers/images/8/8c/Hsien-ko-leilei.gif/revision/latest/scale-to-width-down/119?cb=20110829040032">
 </div>
   
   ##
