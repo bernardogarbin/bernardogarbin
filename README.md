@@ -19,7 +19,7 @@
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 
           
-  <img align="right" alt="Rafa-pic" height="230" style="border-radius:50px;" src="https://professorlotus.com/Sprites/Crobat.gifv">
+  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pve5qMGw07Go7xp_v6kPV0xZcvR9dUspjPwta_z0DvC8wNYcjUaW1CgwWOpNHvV0e7ir6NDnAyBto_fYu6gL5LZi3N3m95fiFROa2Q=w600">
 </div>
   
   ##
