@@ -19,7 +19,7 @@
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 
           
-  <img align="right" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pve5qMGw07Go7xp_v6kPV0xZcvR9dUspjPwta_z0DvC8wNYcjUaW1CgwWOpNHvV0e7ir6NDnAyBto_fYu6gL5LZi3N3m95fiFROa2Q=w600">
+  <img align="right" alt="Rafa-pic" height="300" style="border-radius:px;" src="https://64.media.tumblr.com/2876cabde1b57c7601b19b67ed2f1f60/tumblr_put580TSOk1qza1qzo1_540.gifv">
 </div>
   
   ##
