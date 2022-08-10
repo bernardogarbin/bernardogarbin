@@ -19,7 +19,7 @@
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 
           
-  <img align="right" alt="Rafa-pic" height="210" style="border-radius:px;" src="https://64.media.tumblr.com/2876cabde1b57c7601b19b67ed2f1f60/tumblr_put580TSOk1qza1qzo1_540.gifv">
+  <img align="right" alt="Rafa-pic" height="210" style="border-radius:px;" src="https://64.media.tumblr.com/fa6a5521df61447bfe6fa934e222c3a4/tumblr_o1cmflRgDX1qlwqqzo2_500.gifv">
 </div>
   
   ##
